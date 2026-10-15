@@ -153,10 +153,11 @@ Review fields such as contact numbers and identification numbers. Remove or anon
 
 ## 👨‍💻 Author
 
-**Name:** Your Name
+**Name:** Kartik Nalawade
 
-- **GitHub:** Add your GitHub profile
-- **LinkedIn:** Add your LinkedIn profile
+- **GitHub:** https://github.com/kartikN1234
+- **LinkedIn:** www.linkedin.com/in/kartik-nalawade-3a663625a
+
 
 ---
 
