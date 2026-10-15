@@ -147,9 +147,7 @@ Ecommerce/
 
 ## 🔒 Data Privacy
 
-Before publishing this repository publicly, ensure that the datasets and Power BI report do not contain sensitive or personally identifiable information.
-
-Review fields such as contact numbers and identification numbers. Remove or anonymize sensitive information before sharing the files publicly.
+All datasets should be reviewed for sensitive or personally identifiable information before being shared publicly. Sensitive customer information should be removed or anonymized to ensure responsible data handling.
 
 ## 👨‍💻 Author
 
